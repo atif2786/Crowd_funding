@@ -1,0 +1,20 @@
+{
+  "extensions": [
+    {
+      "metadata": {
+        "name": "MyContract",
+        "metadataURI": "ipfs://QmcrreYS923rw5YqRvXSovxMZEcoXhMV2aAwKKgcUHd2TC",
+        "implementation": "0x0000000000000000000000000000000000000000"
+      },
+      "functions": []
+    }
+  ],
+  "extensionDeployArgs": [
+    {
+      "name": "MyContract",
+      "amount": 0,
+      "salt": "0xee36572fffdc522882601c726a4de565e3414b85d4e18fb1b8e472cbe0f3f216",
+      "bytecode": "6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220d7c08a4b0534d1204891a34ac6ccf222c3c6d896976b95ceca503993f74283d364736f6c63430008090033"
+    }
+  ]
+}
